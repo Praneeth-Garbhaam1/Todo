@@ -1,0 +1,39 @@
+.listapp{
+  justify-content: center;
+  text-align: center;
+}
+input{
+  padding: 20px;
+  border: 1px solid #111;
+  font-size: 30px;
+}
+button{
+  background-color: rgb(2, 155, 243);
+  color: #fff;
+  padding: 20px;
+  border: none;
+  margin-left: 5px;
+  width: 200px;
+}
+#items{
+  background-color: rgba(191, 243, 2, 0.336);
+  width: 600px;
+  position: relative;
+  padding:30px 70px 30px 70px;
+/* 
+  padding-left: 70px;
+  padding-right: 70px; */
+}
+.fa{
+  padding-left: 10px;
+  cursor: pointer;
+}
+ul{
+  position: relative;
+  list-style: none;
+}
+li{
+  position: relative;
+  margin-top: 10px;
+  padding: 30px;
+}
